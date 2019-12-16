@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Información Personal
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Soy estudiante de la Universidad de Guayaquil, estudiando la carrera de ingeniera de software. Este blog tiene el objetivo de compartir mis experiencias academicas y tambien los conocimiento que he ido adquiriendo 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://avatars2.githubusercontent.com/u/58912088?s=460&v=4
 #
 # Flags below are optional
 #
