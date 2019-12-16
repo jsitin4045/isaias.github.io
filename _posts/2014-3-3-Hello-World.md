@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Clases de Introducci!ón a Software
+url: https://jsitin4045.github.io/Cabanilla.github.io/
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
